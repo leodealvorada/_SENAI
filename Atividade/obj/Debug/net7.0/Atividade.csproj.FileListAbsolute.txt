@@ -1,0 +1,15 @@
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\bin\Debug\net7.0\Atividade.exe
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\bin\Debug\net7.0\Atividade.deps.json
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\bin\Debug\net7.0\Atividade.dll
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\bin\Debug\net7.0\Atividade.pdb
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.dll
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\refint\Atividade.dll
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.pdb
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+F:\Estudos\0001 Senai Tech\Programador Back End\_SENAI\atividade\obj\Debug\net7.0\ref\Atividade.dll
